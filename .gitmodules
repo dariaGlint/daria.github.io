@@ -1,0 +1,12 @@
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/meghna-hugo"]
+	path = themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo
+[submodule "themes/starter-academic"]
+	path = themes/starter-academic
+	url = https://github.com/wowchemy/starter-academic
+[submodule "themes/somrat"]
+	path = themes/somrat
+	url = https://github.com/somratpro/somrat
